@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to Toneflix Code
 
-You can use the [editor on GitHub](https://github.com/toneflix/toneflix.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Toneflix Code is directly responsible for the production, deployment and maintenance of all software and related processes including the management of Toneflix Software and Music Distribution, we also routinely release opensource software.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We are are a team of young ambitious individuals from various backgrounds, disciplines and specializations coming together with one common goal, to find and implement solutions to the world's problems, a little at a time using digital techniques beginning from our very own community.
 
-### Markdown
+Toneflix music is a SAAS provides, music production and distribution company with the idea of providing complex solutions to every problem we are faced with through the execution of simple procedures.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Our focus is strongly targeted at youths in our hood, we want to ensure that every member of our community is evenly reached with technology so we can build a force strong enough to focus on solvings earths tiny big problems, we believe that by raising others we could gain the momentum to reach and raise even more.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/toneflix/toneflix.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![Image](https://code.toneflix.com.ng/uploads/content/site_logo.jpg)
